@@ -1,4 +1,4 @@
-# README - Projeto de Estudo sobre Bootstrap
+# Projeto de Estudo sobre Bootstrap
 Este é um projeto criado exclusivamente para fins de estudo sobre o framework Bootstrap. Ele consiste em uma página HTML simples que utiliza o Bootstrap para implementar um layout responsivo e alguns componentes básicos de navegação.
 
 ## Ferramentas Utilizadas
