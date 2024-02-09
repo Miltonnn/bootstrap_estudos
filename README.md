@@ -19,4 +19,12 @@ Para utilizar este projeto, basta clonar o repositório e abrir o arquivo index.
 ## Aviso Legal
 Este projeto foi criado apenas para fins de estudo e aprendizado sobre o framework Bootstrap. Não possui funcionalidades avançadas e não é adequado para uso em projetos de produção sem extensas modificações e melhorias.
 
-Se estiver interessado no repositório, você pode baixar o zip do repositório e inicialá-lo com "npm start" no terminal do seu Visual Studio Code.
+Se estiver interessado no repositório, você pode baixar o zip do repositório instale as dependências com "npm install" e para  inicialá-lo na sequência "npm start" no terminal do seu Visual Studio Code.
+segue o exemplo logo abaixo:
+
+```sql
+npm install
+```
+```sql
+npm start
+```
